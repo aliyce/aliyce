@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aliyce
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning PHP and JS
 - 📫 How to reach me yucea99@gmail.com
 
 <!---
